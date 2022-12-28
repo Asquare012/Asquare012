@@ -1,4 +1,4 @@
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Hassan Abass</h1>
 <h3 align="center">An Educationist, Frontend Engineer, Crypto and Web3 Enthusiast</h3>
 <img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" style = "width:300px;">
