@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Abass</h1>
 <h3 align="center">An Educationist, frontend engineer, crypto and web 3 enthusiast</h3>
-<img src = "https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
+<img src = "[https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif)">
 
 <p align="left"> <a href="https://twitter.com/asquare012" target="blank"><img src="https://img.shields.io/twitter/follow/asquare012?logo=twitter&style=for-the-badge" alt="asquare012" /></a> </p>
 
