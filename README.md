@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Abass</h1>
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cyberark.com%2Fresources%2Fblog%2Fsecure-developer-workstations-without-slowing-them-down&psig=AOvVaw1zjHsW9bNAtP_O-Vsnt2mz&ust=1672328151546000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDki_7RnPwCFQAAAAAdAAAAABAR">
 <h3 align="center">An Educationist, frontend engineer, crypto and web 3 enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/asquare012" target="blank"><img src="https://img.shields.io/twitter/follow/asquare012?logo=twitter&style=for-the-badge" alt="asquare012" /></a> </p>
