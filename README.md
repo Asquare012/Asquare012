@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Abass</h1>
 <h3 align="center">An Educationist, frontend engineer, crypto and web 3 enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asquare012" alt="asquare012" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/asquare012" target="blank"><img src="https://img.shields.io/twitter/follow/asquare012?logo=twitter&style=for-the-badge" alt="asquare012" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://asquare012.github.io/portfolio)
@@ -24,8 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asquare012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asquare012" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassan abass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan abass" height="30" width="40" /></a>
-<a href="https://fb.com/hassan abass asquare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassan abass asquare" height="30" width="40" /></a>
+<a href="https://fb.com/abass.hassan.7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abass.hassan.7798" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asquare012&show_icons=true&locale=en&layout=compact" alt="asquare012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asquare012&show_icons=true&locale=en" alt="asquare012" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asquare012&" alt="asquare012" /></p>
