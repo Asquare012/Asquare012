@@ -1,11 +1,9 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Hassan Abass</h1>
-<h3 align="center">An Educationist, Frontend Engineer, Crypto and Web3 Enthusiast</h3>
+<h3 align="center">Frontend Engineer, Crypto and Web3 Enthusiast</h3>
 <img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" style = "width:300px;">
 
 <p align="left"> <a href="https://twitter.com/asquare012" target="blank"><img src="https://img.shields.io/twitter/follow/asquare012?logo=twitter&style=for-the-badge" alt="asquare012" /></a> </p>
-
-- 🔭 I’m currently working on [my portfolio](https://asquare012.github.io/portfolio)
 
 - 🌱 I’m currently learning **React JS**
 
