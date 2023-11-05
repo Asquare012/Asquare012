@@ -7,17 +7,15 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **upcoming projects, you can reach out to me**
+- 👯 I’m looking to collaborate on **upcoming projects**
 
-- 🤝 I’m looking for help with **node && React JS**
+- 🤝 I’m looking for help with **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asquare012?tab=repositories](https://github.com/Asquare012?tab=repositories)
 
 - 💬 Ask me about **HTML5, CSS3, SCSS, JS && React**
 
 - 📫 How to reach me **abass.hassan.7798@gmail.com / +2349012452602**
-
-- ⚡ Fun fact **i always thought javascript is all about x = 5, y = 10 and z = x + y; calculations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
